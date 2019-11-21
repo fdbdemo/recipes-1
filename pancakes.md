@@ -2,7 +2,7 @@
 
 Pancakes are delicious! Let's learn how to make them.
 
-##ingredients
+## Ingredients
 
 - Eggs
 - Flour
