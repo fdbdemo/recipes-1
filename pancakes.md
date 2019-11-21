@@ -15,5 +15,5 @@ Pancakes are delicious! Let's learn how to make them.
 Gooi ze weg:
 
 - Buy pancakes from the store.
-- Heat them in the microwave.
+kfjlkfjd
 - Done.
